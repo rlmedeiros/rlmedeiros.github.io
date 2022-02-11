@@ -1,29 +1,21 @@
 # jemdoc: menu{MENU}{index.html}
 = Ramon Medeiros -- home page
-[https://www.ifpb.edu.br  / Ramon Medeiros] ([www@jemnz.com])
 
-If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used.
 
 == Research Interests
-~~~
-{}{column}
+
 - Collaborative Robots
 - Planning & Control
-. Computer Vision
-. Deep Learning
-~~~
-
-~~~
-{}{column}
-. Human-Robot Interaction
-. Reinforcement Learning
-. Dextrous Manipulation
-. Tactile Perception
-. Autonomous Driving
-. Probabilistic Modelling
-. Multi-agent Systems
-. Safe Control
-~~~
+- Computer Vision
+- Deep Learning
+- Human-Robot Interaction
+- Reinforcement Learning
+- Dextrous Manipulation
+- Tactile Perception
+- Autonomous Driving
+- Probabilistic Modelling
+- Multi-agent Systems
+- Safe Control
 
 == News
 
