@@ -1,8 +1,13 @@
 
     Home                [index.html]
     Publications        [download.html]
-    Revision history    [revision.html]
     Contact             [contact.html]
+
+teaching
+    ALP         [algoritmos.html]
+    FRC         [fundamentos.html]
+    ISA         [sistemas-abertos.html]
+    TC          [comutacao.html]
 
 links
     IFPB          [www.ifpb.edu.br]
