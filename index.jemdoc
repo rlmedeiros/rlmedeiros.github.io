@@ -5,10 +5,16 @@
 If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used.
 
 == Research Interests
+~~~
+{}{column}
 - Collaborative Robots
 - Planning & Control
 . Computer Vision
 . Deep Learning
+~~~
+
+~~~
+{}{column}
 . Human-Robot Interaction
 . Reinforcement Learning
 . Dextrous Manipulation
@@ -17,6 +23,7 @@ If the first line of the file starts with +\# jemdoc+, special functions like [m
 . Probabilistic Modelling
 . Multi-agent Systems
 . Safe Control
+~~~
 
 == News
 
