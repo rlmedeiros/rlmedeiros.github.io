@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{fundamentos.html}
+= Fundamentos de Redes de Computadores
+
+== Informações
+*Curso*: Técnico de Nível Médio Integrado em Informática
+*Série/Período*: 1º ano
+*Carga Horária*: 2 aulas/semana – 67 h - 80 h/aulas
+
+== Ementa
+Contexto histórico e motivação para o surgimento das redes. Conceito e características de redes de computadores. Classificação das redes quanto às topologias e área de cobertura. Fundamentos de Protocolos, Modelo de Referência ISO/OSI e a Arquitetura TCP/IP. Camada de aplicação e seus protocolos (HTTP, SMTP, POP3, IMAP, DNS, FTP e SSH). Protocolo da Camada de Transporte (TCP e UDP). Camada de Rede e seus protocolos (IP, ICMP, ARP, RARP). Camada de enlace e seus protocolos (Ethernet e Wifi). Práticas sobre configuração de redes locais.
+
+== Objetivos
+
+Geral
+Compreender o funcionamento de uma rede local (LAN).
+Específicos
+Entender o histórico das redes e a motivação para o surgimento; Classificar as redes sob diversos parâmetros;
+Compreender e diferenciar o Modelo de Referência OSI/ISO e a arquitetura TCP/IP; Identificar os padrões mais utilizados em redes locais hoje em dia;
+Compreender as camadas de aplicação, transporte, rede e enlace; além de identificar seus principais protocolos.
+
+== Conteúdo
