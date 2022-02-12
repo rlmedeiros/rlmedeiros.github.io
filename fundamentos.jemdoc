@@ -2,20 +2,38 @@
 = Fundamentos de Redes de Computadores
 
 == Informações
-*Curso*: Técnico de Nível Médio Integrado em Informática
-*Série/Período*: 1º ano
-*Carga Horária*: 2 aulas/semana – 67 h - 80 h/aulas
+*Curso*: Técnico de Nível Médio Integrado em Informática \n
+*Série/Período*: 1º ano \n
+*Carga Horária*: 2 aulas/semana – 67 h - 80 h/aulas \n
 
 == Ementa
 Contexto histórico e motivação para o surgimento das redes. Conceito e características de redes de computadores. Classificação das redes quanto às topologias e área de cobertura. Fundamentos de Protocolos, Modelo de Referência ISO/OSI e a Arquitetura TCP/IP. Camada de aplicação e seus protocolos (HTTP, SMTP, POP3, IMAP, DNS, FTP e SSH). Protocolo da Camada de Transporte (TCP e UDP). Camada de Rede e seus protocolos (IP, ICMP, ARP, RARP). Camada de enlace e seus protocolos (Ethernet e Wifi). Práticas sobre configuração de redes locais.
 
 == Objetivos
 
-Geral
+: {Geral}
 Compreender o funcionamento de uma rede local (LAN).
-Específicos
-Entender o histórico das redes e a motivação para o surgimento; Classificar as redes sob diversos parâmetros;
-Compreender e diferenciar o Modelo de Referência OSI/ISO e a arquitetura TCP/IP; Identificar os padrões mais utilizados em redes locais hoje em dia;
-Compreender as camadas de aplicação, transporte, rede e enlace; além de identificar seus principais protocolos.
+: {Específicos}
+- Entender o histórico das redes e a motivação para o surgimento;
+- Classificar as redes sob diversos parâmetros;
+- Compreender e diferenciar o Modelo de Referência OSI/ISO e a arquitetura TCP/IP;
+- Identificar os padrões mais utilizados em redes locais hoje em dia;
+- Compreender as camadas de aplicação, transporte, rede e enlace;
+- além de identificar seus principais protocolos.
 
 == Conteúdo
+
+
+== Bibliografia
+
+: {BÁSICA}
+
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet – Uma abordagem Top-Down. 5 Ed. São Paulo: Pearson Addison Wesley, 2010. \n
+TANENBAUM, A. S.; J. WETHERALL, David. Redes de Computadores. 5 ed.  Pearson Education - Br, 2011. \n
+COMER, D. E. Redes de Computadores e a Internet. 6 ed. Editora Bookman, 2016.
+
+: {COMPLEMENTAR}
+
+ANDERSON, Al; BENEDETTI, Ryan. Use a Cabeça! Redes de Computadores. 1 Ed. Alta Books, 2010. p. 528. \n
+MORIMOTO, C. E. Redes, Guia Prático. 1 Ed. São Paulo: GDH Press e Sul Editores, 2008. p. 560. TORRES, Gabriel. Redes de Computadores Curso Completo. 1 Ed. Axcel Books, 2001. p. 688. \n
+OLIFER, N.; OLIFER, V. Redes de Computadores – Princípios, Tecnologias e Protocolos para o projeto de redes. 1 Ed. Editora LTC, 2008.

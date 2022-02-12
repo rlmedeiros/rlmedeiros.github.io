@@ -8,12 +8,12 @@ ensino
     TC          [comutacao.html]
 
 pesquisa
-    Projetos
-    Publicações
+    Projetos    [pesquisa.html]
+    Publicações [publicacoes.html]
 
 extensão
-    Projetos
+    Projetos    [exentao.html]
 
 links
-    IFPB          [www.ifpb.edu.br]
-    SUAP          [suap.ifpb.edu.br]
+    IFPB          [http://www.ifpb.edu.br]
+    SUAP          [http://suap.ifpb.edu.br]
